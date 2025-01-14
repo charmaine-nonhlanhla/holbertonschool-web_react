@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "crud.js": "^1.0.3"
+  }
+}
